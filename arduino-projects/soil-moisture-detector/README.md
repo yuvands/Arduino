@@ -1,5 +1,5 @@
 # Soil Moisture Detector
-This project(made using TINKERCAD) uses an **Arduino UNO**, a soil moisture detector and other basic circuit components to show 
+This project(made using TINKERCAD) uses an **Arduino UNO**, a soil moisture detector and other basic circuit components to display 
 the moisture level in the soil being tested.
 
 - If the soil is **wet**, the system shows "WET" and remains silent.
