@@ -11,12 +11,12 @@ This project uses an ultrasonic sensor (HC-SR04) with an Arduino and other basic
 - Buzzer/LED for alerts
 
 ##Code File
-- `ultrasonic_distance_detector.ino`
+`ultrasonic_distance_detector.ino`
 
 ##How it Works
 1. Arduino sends a pulse from the TRIG pin. 
 2. Sensor measures the time for the signal to bounce back. 
-3. Distance is calculated using= distance(cm) = time/58 
+3. Distance is calculated using=> distance(cm) = time/58 
 4. Trigger is then alerted or stays passive depending on whether threshold is exceeded or not.
 
 ##States
