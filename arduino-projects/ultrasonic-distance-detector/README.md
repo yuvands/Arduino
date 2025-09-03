@@ -22,7 +22,7 @@ See [`ultrasonic_distance_detector.ino`](ultrasonic_distance_detector.ino).
 4. Trigger is then alerted or stays passive depending on whether threshold is exceeded or not.
 
 ### States
-- There are 3 states for the sensor
+-> There are 3 states for the sensor
 
 1. Far(Exceeding 200cms)
 2. Medium Range(100-200cms)
