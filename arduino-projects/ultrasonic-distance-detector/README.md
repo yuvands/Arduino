@@ -11,7 +11,8 @@ This project uses an ultrasonic sensor (HC-SR04) with an Arduino and other basic
 - Buzzer/LED for alerts
 
 ##Code File
-`ultrasonic_distance_detector.ino`
+
+See [`ultrasonic_distance_detector.ino`](ultrasonic_distance_detector.ino).
 
 ##How it Works
 1. Arduino sends a pulse from the TRIG pin. 
