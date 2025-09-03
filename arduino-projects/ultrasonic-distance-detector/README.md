@@ -1,6 +1,7 @@
 # Ultrasonic Distance Detector
 
 ##Overview
+
 This project uses an ultrasonic sensor (HC-SR04) with an Arduino and other basic circuit components to measure the distance of objects.
 
 
